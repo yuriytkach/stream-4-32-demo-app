@@ -1,0 +1,6 @@
+app:
+  blockchain:
+    host: http://localhost:8545
+
+    mnemonic: slice setup regular penalty endless guitar hour enjoy secret fringe prepare unable
+    credentials-length: 10
